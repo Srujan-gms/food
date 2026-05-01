@@ -1,0 +1,12 @@
+{
+  "name": "Remix: Remix: ZeroLink - Precision Food Rescue 1",
+  "description": "Enterprise-grade logistics platform for zero-waste food redistribution, featuring FSSAI-based expiry logic and dynamic neighborhood allocation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Logistics Optimization",
+    "Expiry Prediction",
+    "Resource Matching"
+  ]
+}
